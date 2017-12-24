@@ -375,16 +375,10 @@ a:active {
       border-radius: 0;
       border: none;
       box-shadow: none;
-      background: #5bc0de;
+      background: #1bafb4;
       padding: 0px 35px;
       color: #fff;
       font-weight: bold; }
-
-  .call-to-action .block .input-group .btn-subscription:hover, .call-to-action .block .input-group .btn-subscription:focus {
-    background-color:#418aa0;
-    color: #fff;
-    border: none;
-  }
 
 .input-field .form-control {
   box-shadow: none;
@@ -398,8 +392,8 @@ a:active {
 
 .btn-send {
   line-height: 48px;
-  border: 2px solid #5bc0de;
-  background: #5bc0de;
+  border: 2px solid #1bafb4;
+  background: #1bafb4;
   color: #fff;
   width: 100%;
   font-size: 14px;
@@ -408,12 +402,8 @@ a:active {
   letter-spacing: 1px;
   border-radius: 0;
   margin-top: 10px; }
-
-   .btn-send:hover, .btn-home:focus {
-    background-color:#418aa0;
-    color: #fff;
-    border: none;
- }
+  .btn-send:hover {
+    color: #fff; }
 
 .input-field label {
   color: rgba(237, 28, 36, 0.7); }
