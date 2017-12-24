@@ -380,7 +380,7 @@ a:active {
       color: #fff;
       font-weight: bold; }
 
-  .call-to-action .block .input-group .btn-subscription:hover, .call-to-action .block .input-group .btn-subscription:focus {
+  .call-to-action .block .input-group .btn-subscription:hover {
     background-color:#418aa0;
     color: #fff;
     border: none;
