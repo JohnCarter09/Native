@@ -83,10 +83,11 @@ a:active {
 .heading {
   text-align: center;
   color: #777777;
-  padding-bottom: 70px; }
+  padding-bottom: 50px;
+}
   .heading h2 {
     color: #3c3c3c;
-    padding-bottom: 15px;
+    padding-bottom: 1px;
     text-transform: capitalize;
     font-weight: 600;
     font-size: 40px;
