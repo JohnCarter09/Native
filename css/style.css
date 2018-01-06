@@ -72,7 +72,8 @@ a:active {
   padding: 100px 0; }
 
 .testimonials-section{
-  padding:35px;
+  padding:none;
+  margin-bottom: 20px;
 }
 /*--
     custom heading
@@ -83,7 +84,7 @@ a:active {
 .heading {
   text-align: center;
   color: #777777;
-  padding-bottom: 50px;
+  padding:5px;
 }
   .heading h2 {
     color: #3c3c3c;
@@ -96,7 +97,8 @@ a:active {
     font-family: 'Droid Serif', serif;
     font-size: 15px;
     line-height: 24px;
-    font-weight: 300; }
+    font-weight: 300;
+    margin-bottom: 45px; }
 
 .btn {
   border-radius: 0; }
