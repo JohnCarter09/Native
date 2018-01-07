@@ -298,8 +298,8 @@ a:active {
       font-size: 22px; }
 
 .navigation.animated {
-  background-color: #fff;
-  box-shadow: 0 2px 7px 0px rgba(142, 142, 142, 0.15); }
+  background-color: #fffffff0;
+  box-shadow: 0 2px 7px 0px rgba(142, 142, 142, 1); }
   .navigation.animated .menu a {
     color: #666; }
 
