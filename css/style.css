@@ -68,6 +68,10 @@ a:active {
   font-size: 30px;
    }
 
+img {
+  max-width: 100%;
+}
+
 .section {
   padding: 100px 0; }
 
@@ -288,14 +292,17 @@ a:active {
   border: 0; }
   .navigation .navbar-brand {
     padding-top: 5px;
-    display: inline-block; }
+    display: inline-block;
+    width: 90px; 
+  }
   .navigation .navbar-toggler {
-    background: #fff;
+    background: none;
     outline: none;
     border-radius: 0;
-    float: right; }
+     }
     .navigation .navbar-toggler i {
-      font-size: 22px; }
+      font-size: 15px;
+       }
 
 .navigation.animated {
   background-color: #fffffff0;
